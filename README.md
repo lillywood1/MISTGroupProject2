@@ -1,8 +1,8 @@
-Group 4 MIST Group Project 2 (Tableau)
-Team Name
+# Group 4 MIST Group Project 2 (Tableau)
+# Team Name
 29704 Group 4
 
-Team Members:
+# Team Members:
 Ryan Kelly: @Rjk4133
 Ryan Dean: @RDean45
 Cameron Smith:@camjshmitt
