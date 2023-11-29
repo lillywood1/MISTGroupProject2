@@ -9,3 +9,18 @@
 4. Mattie Garett: [@MatGar22](https://github.com/MatGar22)
 5. Lilly Wood: [@lillywood21](https://github.com/lillywood1)
 7. Wyatt Smith: [@wsmith1287](https://github.com/wsmith1287)
+
+# Data Set Link: https://catalog.data.gov/dataset/sales-tax-collections-by-state
+
+# Data Set Description & What it Contains
+
+# Question 1
+
+
+# Question 2
+
+# Data Set Manipulations
+-state regions
+
+# Analysis And Result
+
