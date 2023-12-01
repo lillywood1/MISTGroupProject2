@@ -30,6 +30,7 @@ This question is interesting to examine because real estate prices fluctuate gre
 
 # Data Set Manipulations
 -A residual was calculated by taking the averaged assessed value from the average selling price. The purpose of this was to use the residual to evaluate the unemployment rate on the difference between these two variables. A positive residual would show average selling price to be higher, while a negative would show average assessed value to be higher. Comparing the residuals to the unemployment rate over a span of time allows more insight for real estate market. This calculation was used for question two.
+
 -Question one used the average selling price and how it changed across one, two, and three family homes in two cities and the state of Connecticut. This was already provided in the data set, but the data was manipulated to compare how the prices changed over time based on these variables, and then visualized to provide more clarity on how exactly the average selling price differs. Data was excluded to focus on the specific cities and provide an accurate visualization of the data. 
 
 # Analysis And Result
