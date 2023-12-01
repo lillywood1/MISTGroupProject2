@@ -20,7 +20,7 @@ This data set is titled “Real Estate Sales 2001-2020” and was obtained on th
 How has the average sale price per year changed of one family, two family, and three family homes in Hartford, Bridgeport, and Connecticut as a whole from 2007-2020?
 
 # Question 2
-How do the unemployment rate and median income relate to the difference in sale amount and assessed value?
+How does the unemployment rate and median income relate to the difference in sale amount and assessed value?
 
 # Question 1 Importance
 This question is important to consider because real estate prices fluctuate depending on whether the home is a single, two, or three family home and its location. By utilizing sale price and looking at it alongside these two measures over a 13 year period, we are able to see a few major trends emerge. This visualization could be useful for people interested in moving to Connecticut who are trying to determine what town or living arrangement they are searching for. Multi-family homes are not as common in the United States as they are in other parts of the world which means that our data can help identify areas of opportunity for those looking to move into this area. Comparing these prices across different geographic locations can also help local and state governments assess how prices are different and how they can better accommodate or attract multi family units. This can help states like Connecticut continue to grow their population and help diversify it as well. Comparing one, two, and three family homes can help identify these trends for those interested in buying and/or building homes as well as give a good idea as to how much they will sell for. 
