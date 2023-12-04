@@ -17,6 +17,7 @@ https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 
 *Secondary Datasets*:
 https://fred.stlouisfed.org/series/LAUST090000000000003A
+
 https://www.statista.com/statistics/205785/median-household-income-in-connecticut/
 
 
