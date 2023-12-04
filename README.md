@@ -11,7 +11,7 @@
 7. Wyatt Smith: [@wsmith1287](https://github.com/wsmith1287)
 
 # Data Set Link: 
-https://catalog.data.gov/dataset/sales-tax-collections-by-state
+https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 
 # Data Set Description & What it Contains
 This data set is titled “Real Estate Sales 2001-2020” and was obtained on the data.gov website. This data set contains all real estate sales that took place between 2001 and 2020 in the state of Connecticut. Additionally each sale that is included must have been above two-thousand dollars. In terms of dimensions, this real estate data has 13 columns and 997,213 rows of data. The data that each on of these columns contains are, the serial number of the sale, the list year of the property, the date the sale was recorded, the town the property is located in, the address of the property, the assessed value of the property, the sale value of the property, the ratio of property assessed value to property sale value, the type of property, if that property is residential then the type of residential property, accessor remarks, OPM (Office of Personnel Management) remarks, and finally specific geographic location. Also, it should be noted that the accessor remark data column refers to remarks of local government officials that assess the value of a property and the OPM remarks is regarding the remarks of the Office of Personnel Management, which manages government officials in a quasi-human resource role.
